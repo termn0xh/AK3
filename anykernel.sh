@@ -4,15 +4,15 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=NetHunter kernel for Nothing Phone 1
+kernel.string=AkameKernel for Stone
 do.devicecheck=0
 do.modules=1
-do.systemless=1
+do.systemless=0
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=
-device.name2=
-device.name3=
+device.name1=stone
+device.name2=moonstone
+device.name3=sunstone
 device.name4=
 device.name5=
 supported.versions=11.0-15.0
