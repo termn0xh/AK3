@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=AkameKernel for Stone
+kernel.string=CyberEdge Nethunter for Stone
 do.devicecheck=0
 do.modules=1
 do.systemless=0
@@ -15,7 +15,7 @@ device.name2=moonstone
 device.name3=sunstone
 device.name4=
 device.name5=
-supported.versions=11.0-15.0
+supported.versions=12.0-15.0
 supported.patchlevels=
 supported.vendorpatchlevels=
 '; } # end properties
